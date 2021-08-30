@@ -1,0 +1,41 @@
+body {
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  background: url("header.jpg") no-repeat center center fixed;
+  max-width: 2300px;
+  max-height: 1438px;
+}
+
+h1,h2,h3{
+	font-weight: 100;
+}
+
+.header-top{
+	margin-top:150px;
+	text-align:center;
+}
+
+.heading{
+	font-size:150px;
+	line-height: 96px;
+	text-align:center;
+}
+
+.button {
+	
+  width:180px;
+  height:40px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align:center;
+  border-radius: 25px;
+  background-color: #0023ff;
+  border: none;
+  color: #ffffff;
+}
+
+
+
+
+

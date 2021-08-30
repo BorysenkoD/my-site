@@ -1,29 +1,32 @@
 body {
-  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   background: url("header.jpg") no-repeat center center fixed;
+ font-family: 'Lato', sone-serif;
   max-width: 2300px;
   max-height: 1438px;
 }
 
-h1,h2,h3{
-	font-weight: 100;
-}
-
 .header-top{
-	margin-top:150px;
 	text-align:center;
 }
 
 .heading{
-	font-size:150px;
-	line-height: 96px;
+	margin-top:100px;
+	margin-bottom:-10px;
+	font-size:120px;
 	text-align:center;
+	font-weight:200;
+}
+.bottom-heading{
+	margin:20px;
+	font-size:20px;
+	text-align:center;
+	font-weight:300;
 }
 
 .button {
-	
-  width:180px;
-  height:40px;
+	margin:auto;
+  width:120px;
+  height:30px;
   display: inline-block;
   vertical-align: baseline;
   text-decoration: none;
@@ -34,6 +37,16 @@ h1,h2,h3{
   border: none;
   color: #ffffff;
 }
+.p{
+	font-size:10px;
+	font-family: 'Lato', bold;
+	font-weight:700;
+	
+}
+.widget{
+	background: url("img/Olios_Template_0004s_0001s_0005_Prostokąt-1.png") no-repeat left left fixed;
+}
+
 
 
 
